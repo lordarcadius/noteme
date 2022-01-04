@@ -6,6 +6,6 @@
         <item name="windowSplashScreenAnimatedIcon">@drawable/logo</item>
         <item name="windowSplashScreenAnimationDuration">1000</item>
         <item name="postSplashScreenTheme">@style/Theme.NotesApp</item>
-        <item name="android:windowSplashScreenBrandingImage">@drawable/branding_image_layer_list</item>
+        <item name="android:windowSplashScreenBrandingImage">@drawable/noteme</item>
     </style>
 </resources>
