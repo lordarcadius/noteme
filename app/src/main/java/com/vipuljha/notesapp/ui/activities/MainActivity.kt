@@ -1,4 +1,4 @@
-package com.vipuljha.notesapp.activities
+package com.vipuljha.notesapp.ui.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
